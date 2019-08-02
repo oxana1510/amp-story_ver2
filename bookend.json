@@ -1,0 +1,56 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+   
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More Articles"
+    },
+    {
+      "type": "landscape",
+      "title": "Speed up WhatsApp Voice Messages on Android: Here’s How",
+      "url": "https://news.androidout.com/2019/07/31/speed-up-whatsapp-voice-messages-on-android-heres-how",
+      "image": "assets/TalkFaster.png",
+      "category": ""
+    },
+    {
+      "type": "landscape",
+      "title": "Add Song Lyrics to Your Instagram Story: Here’s How",
+      "url": "https://news.androidout.com/2019/07/18/add-song-lyrics-to-your-instagram-story-heres-how/",
+      "image": "assets/Song.jpg",
+      "category": ""
+    },
+    {
+      "type": "landscape",
+      "title": "Is Someone Signing into your Facebook Account? Find out!",
+      "url": "https://news.androidout.com/2019/07/24/is-someone-signing-into-your-facebook-account-find-out/",
+      "image": "assets/Signing.jpg",
+      "category": ""
+    },
+    {
+      "type": "landscape",
+      "title": "Stay Safe on your Android phone while Using Free Public Wi-Fi",
+      "url": "https://news.androidout.com/2019/07/17/stay-safe-on-your-android-phone-while-using-free-public-wi-fi/",
+      "image": "assets/wi-fi.jpg",
+      "category": ""
+    },
+    {
+      "type": "landscape",
+      "title": "How to View Saved Wi-Fi Passwords on Android",
+      "url": "https://news.androidout.com/2019/07/23/how-to-view-saved-wi-fi-passwords-on-android/",
+      "image": "assets/key.jpg",
+      "category": ""
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Learn more",
+          "url": "https://news.androidout.com/2019/07/25/how-to-disable-the-whatsapp-web-is-currently-active-notification-on-android/"
+        }
+      ]
+    }
+  ]
+}
